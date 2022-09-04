@@ -1,5 +1,4 @@
 # *FIRST*<sup>&reg;</sup> Robotics Competition Team 538
 
-Founding 2001
-Retirement 2021
-Re-Founding 2021-2022
+Founded 2001 in Arab, AL.
+Re-Founded 2021 in Athens, AL.
